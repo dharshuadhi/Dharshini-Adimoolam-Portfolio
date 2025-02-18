@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+DHARSHINI ADIMOOLAM PORTFOLIO
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to my portfolio!!
